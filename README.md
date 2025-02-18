@@ -30,7 +30,10 @@
 ![image](https://github.com/user-attachments/assets/a1782e15-d15b-4f52-9e52-c970162e792c)
 
 
-При помощи команды `sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo`
+При помощи команды 
+
+`sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo`
+
 выкачиваем репозиторий для linux centos
 
 ![image](https://github.com/user-attachments/assets/7adce59d-f163-41a8-8d8f-b9bbca5cc023)
