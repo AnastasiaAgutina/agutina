@@ -13,7 +13,7 @@
 
 Открываем файл sudoers с помощью команды 
 
-`vi /etc/sudoers/`
+`vi /etc/sudoers`
 
 ![image](https://github.com/user-attachments/assets/87d3788b-2824-48c8-ba3c-fd7dcc2b1b0d)
 
