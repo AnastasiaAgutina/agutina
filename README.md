@@ -64,13 +64,21 @@
 ![image](https://github.com/user-attachments/assets/d54c3842-ce76-4a15-ae45-9e98c445d747)
 
 
+Команда chmod +x используется для предоставления прав на выполнение скачанному скрипту docker-compose.
+
 `sudo chmod +x /usr/bin/docker-compose`
 
 ![image](https://github.com/user-attachments/assets/ff4cad3f-56ae-4667-9bfe-6c57beb7b162)
 
+Выполняется команда для проверки установленной версии Docker Compose.
+
 `docker-compose --version`
 
 ![image](https://github.com/user-attachments/assets/8c2d72bc-4998-41e2-b3a7-23536a0e811f)
+
+Клонирование репозитория с GitHub:
+ - Пытается выполнить команду git clone для клонирования репозитория grafana_stack_for_docker с GitHub.
+ - Обнаружено, что команда git не установлена в системе. Предлагается установить пакет git-core, который предоставляет команду git.
 
 `git clone https://github.com/skl256/grafana_stack_for_docker.git`
 
