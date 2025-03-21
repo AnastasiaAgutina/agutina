@@ -84,12 +84,12 @@
 
 ![image](https://github.com/user-attachments/assets/53a99315-4e5d-4805-b416-9cd7f50648f9)
 
+Устанавливаем Git и клонируем репозиторий:
 `sudo yum install git`
+`git clone https://github.com/skl256/grafana_stack_for_docker.git`
 
 ![image](https://github.com/user-attachments/assets/840f97a4-ba71-426e-94d9-4298c9fa6f0e)
 ![image](https://github.com/user-attachments/assets/c0f7ba3c-611b-41cb-8b9c-f6d56d20db3f)
-
-`git clone https://github.com/skl256/grafana_stack_for_docker.git`
 
 ![image](https://github.com/user-attachments/assets/dd405b1e-75b0-425b-93a9-0b5abbd882dc)
 
