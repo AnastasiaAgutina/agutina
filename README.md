@@ -1,5 +1,8 @@
 # Агутина Анастасия К-ИСП-39-1
 
+<img width="1119" height="811" alt="image" src="https://github.com/user-attachments/assets/7205d85a-efa0-4de4-8b99-9e5d045fff90" />
+
+# Docker Compose
 Вводим команду для установки wget.
 
 `sudo yum install wget`
